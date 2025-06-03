@@ -1,0 +1,7 @@
+# ide config
+
+.vscode
+.idea
+
+# compile result
+**target
